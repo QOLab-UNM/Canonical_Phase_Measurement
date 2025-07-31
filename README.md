@@ -14,7 +14,7 @@ A collection of Python functions to find the angles of the convex combination of
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/QOLab-UNM/Canonical_Phase_Measurement.git
 cd YOUR-REPO-NAME
 pip install -r requirements.txt
 ```
