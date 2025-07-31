@@ -1,6 +1,6 @@
-# Scientific Linear Algebra Helpers
+# div_POVM
 
-A collection of Python functions for linear algebraic operations commonly needed in quantum information and matrix analysis, including Carathéodory reduction, quantum Fourier transform projectors, and more.
+A collection of Python functions to find the angles of the convex combination of Theorem 1 for the paper: 
 
 ## Features
 
