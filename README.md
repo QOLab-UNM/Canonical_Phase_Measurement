@@ -1,4 +1,4 @@
-# div_POVM
+# Algorithm to find angles for the construction of optimal phase measurements
 
 A collection of Python functions to find the angles of the convex combination of Theorem 1 for the paper: 
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ```python
 import numpy as np
-from src.linear_algebra_helpers import (
+from src.div_POVM (
     abs_diff_set, smallest_non_divisor, qft_projectors,
     find_zero_sum_combination, caratheodory_reduce, angles
 )
@@ -34,7 +34,7 @@ print("Angles (fractions of 2*pi):", ang)
 print("r:", r)
 ```
 
-See the [`tests/test_linear_algebra_helpers.py`](tests/test_linear_algebra_helpers.py) file for more usage examples.
+See the [`tests/test_div_POVM.py`](tests/test_div_POVM.py) file for more usage examples.
 
 ## Function Reference
 

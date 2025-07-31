@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository in your research, please cite it as below."
-title: "Scientific Linear Algebra Helpers"
+title: "Algorithm to find angles for the construction of optimal phase measurements"
 authors:
   - family-names: "YourLastName"
     given-names: "YourFirstName"
