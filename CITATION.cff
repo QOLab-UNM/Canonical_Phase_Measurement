@@ -6,7 +6,7 @@ authors:
     given-names: "Mohammad A."
     affiliation: "Center for Quantum Information and Control, Department of Physics and Astronomy,
 University of New Mexico, Albuquerque, New Mexico 87131, USA"
-    orcid: "https://0000-0002-4250-3576"
+    orcid: "https://orcid.org/0000-0002-4250-3576"
   - family-names: "Rodríguez-García"
     given-names: "Marco A."
     affiliation: "Center for Quantum Information and Control, Department of Physics and Astronomy,
@@ -16,7 +16,7 @@ date-released: "2025-11-09"
 version: "1.0.0"
 doi: "10.5281/zenodo.xxxxxxx"  # Replace with your Zenodo DOI after archiving
 license: "MIT"
-repository-code: "https://https://github.com/QOLab-UNM/Canonical_Phase_Measurement"
+repository-code: "https://github.com/QOLab-UNM/Canonical_Phase_Measurement"
 keywords:
   - linear algebra
   - quantum information
