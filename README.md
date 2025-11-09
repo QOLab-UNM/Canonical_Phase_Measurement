@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Questions or feedback? Open an [issue](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/issues) or email your.email@domain.com.
+Questions or feedback? Open an [issue](https://github.com/QOLab-UNM/Canonical_Phase_Measurement/issues) or email marg@ciencias.unam.mx
