@@ -76,6 +76,13 @@ BibTeX:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Citation
+
+[![DOI](https://zenodo.org/badge/1029948978.svg)](https://doi.org/10.5281/zenodo.17567184)
+
+
+
+
 ## Contact
 
 Questions or feedback? Open an [issue](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/issues) or email your.email@domain.com.
