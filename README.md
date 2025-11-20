@@ -59,14 +59,16 @@ python -m unittest discover tests
 
 If you use this code in your research, please cite:
 
-> Your Name et al. (2025). "Title of Your Paper." *Journal/Conference Name*. [arXiv/DOI link]
+> Marco A. Rodríguez-García, Mohammad A. Alhejji , F. E. Becerra, and Pablo Barberis-Blostein. (2025). "Implementing canonical phase measurements via ensembles of finite-outcome
+measurements." *Journal Name*. [arXiv/DOI link]
 
 BibTeX:
 ```bibtex
 @article{Your2025Paper,
-  author = {Your Name and Collaborators},
-  title = {Title of Your Paper},
-  journal = {Journal/Conference Name},
+  author = {Marco A. Rodríguez-García, Mohammad A. Alhejji , F. E. Becerra, and Pablo Barberis-Blostein},
+  title = {Implementing canonical phase measurements via ensembles of finite-outcome
+measurements},
+  journal = {Journal Name},
   year = {2025},
   doi = {DOI or arXiv link here}
 }
