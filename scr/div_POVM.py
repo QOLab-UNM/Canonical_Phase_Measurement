@@ -6,7 +6,8 @@ canonical phase measurements.
 
 If you use this code in your research, please cite:
 
-> Your Name et al. (2025). "Title of Your Paper." *Journal/Conference Name*. [arXiv/DOI link]
+> Marco A. Rodríguez-García, Mohammad A. Alhejji, F. E. Becerra, and Pablo Barberis-Blostein  (2025). "Implementing canonical phase measurements via ensembles of finite-outcome
+measurements." *Journal/Conference Name*. [arXiv/DOI link]
 
 Author: Mohammad Alhejji and Marco Rodríguez
 License: MIT
